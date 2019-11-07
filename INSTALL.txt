@@ -1,0 +1,6 @@
+conda install tensorflow-gpu==1.14
+conda install --channel https://conda.anaconda.org/menpo opencv3
+conda install Pillow
+conda install h5py
+conda install matplotlib
+

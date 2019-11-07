@@ -1,0 +1,3 @@
+relu改为了leakyrelu 有效果
+每个卷积层后加BN然后leakey relu
+反卷积层间穿插resnet block
